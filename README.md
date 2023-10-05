@@ -1,2 +1,0 @@
-# Mywesbite
-coursera test repository
